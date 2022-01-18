@@ -11,6 +11,7 @@ Hvordan allokerer vi minne for nye typer i vårt programmeringsspråk?
 Kan vurdere å bruke bool for representere cellen.
 https://go.dev/ref/spec#Boolean_types 
 TestInitCell
+Utskrift i Errorf av bool type må formatteres med %t	the word true or false (https://pkg.go.dev/fmt)
 
 # Sette en verdi 
 TestSetCellValue
